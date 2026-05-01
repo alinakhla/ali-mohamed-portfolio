@@ -13,7 +13,7 @@ window.portfolioProjects = [
   "Component-Based UI",
   "Dynamic Data Rendering",
   "UI/UX Layout Design"],
-    contributors: ["Hassan ahmed","ziad ehab","amed ashraf","naif el-kady"],
+    contributors: ["Ali Mohamed","ziad ehab","amed ashraf","naif el-kady"],
     finalLink: "",
     media: [
       {
