@@ -76,7 +76,7 @@ if (!project) {
     ? `<a class="button primary" href="${project.finalLink}" target="_blank" rel="noreferrer">Open Final Project</a>`
     : `<span class="button secondary">Final project link coming soon</span>`;
 
-  document.title = `${project.title} | Hassan Ahmed Portfolio`;
+  document.title = `${project.title} | Ali Mohamed Portfolio`;
   detailRoot.innerHTML = `
     <a class="detail-back" href="index.html#projects">Back to portfolio</a>
 
