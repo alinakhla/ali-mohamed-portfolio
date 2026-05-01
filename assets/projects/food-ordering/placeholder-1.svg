@@ -1,0 +1,10 @@
+<svg width="1200" height="750" viewBox="0 0 1200 750" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="750" fill="#111827"/>
+  <rect x="88" y="88" width="1024" height="574" rx="18" fill="#0B1220" stroke="#3B82F6" stroke-opacity="0.45" stroke-width="3"/>
+  <rect x="136" y="146" width="260" height="92" rx="12" fill="#2563EB"/>
+  <rect x="136" y="286" width="280" height="250" rx="12" fill="#E5E7EB" fill-opacity="0.08"/>
+  <rect x="466" y="146" width="598" height="72" rx="12" fill="#E5E7EB" fill-opacity="0.1"/>
+  <rect x="466" y="258" width="270" height="198" rx="12" fill="#3B82F6" fill-opacity="0.24"/>
+  <rect x="794" y="258" width="270" height="198" rx="12" fill="#3B82F6" fill-opacity="0.15"/>
+  <text x="600" y="608" fill="#E5E7EB" font-family="Arial, sans-serif" font-size="42" font-weight="700" text-anchor="middle">Food Ordering System Screenshot</text>
+</svg>
